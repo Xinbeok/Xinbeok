@@ -58,14 +58,14 @@ Here are some ideas to get you started:
 
 🤝 欢迎交流学习心得和技术实践！
 
-📫 邮箱：Xinbeok@163.com
+📫 邮箱：hxbeok@163.com
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
-  <a href="mailto:Xinbeok@163.com">  
+  <a href="mailto:hxbeok@163.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
-      src="https://img.shields.io/badge/Xinbeok@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/hxbeok@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
     >  
   </a>  
