@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 🎯 Golang 后端 + agent方向
 
 🤝 欢迎交流学习心得和技术实践！
+
+📫 邮箱：Xinbeok@163.com
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
