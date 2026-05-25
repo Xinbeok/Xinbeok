@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
-[![Canal](https://img.shields.io/badge/Canal-1E88E5?style=flat-square&logo=apache&logoColor=white)](https://github.com/alibaba/canal)
-[![Nacos](https://img.shields.io/badge/Nacos-1C8EED?style=flat-square&logo=alibaba-cloud&logoColor=white)](https://nacos.io/)
 
 [![Go Modules](https://img.shields.io/badge/Go_Modules-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/doc/modules/managing-dependencies)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -58,11 +55,11 @@ Here are some ideas to get you started:
 
 🤝 欢迎交流学习心得和技术实践！
 
-📫 邮箱：hxbeok@163.com
+📫 邮箱：xinbeok@163.com
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
-  <a href="mailto:hxbeok@163.com">  
+  <a href="mailto:xinbeok@163.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
       src="https://img.shields.io/badge/hxbeok@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
