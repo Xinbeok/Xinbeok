@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 
 [![Go Modules](https://img.shields.io/badge/Go_Modules-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/doc/modules/managing-dependencies)
