@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <a href="mailto:xinbeok@163.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
-      src="https://img.shields.io/badge/hxbeok@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/xinbeok@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
     >  
   </a>  
